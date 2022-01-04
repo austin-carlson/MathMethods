@@ -1,0 +1,14 @@
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.exe
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.deps.json
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.runtimeconfig.json
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.runtimeconfig.dev.json
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.dll
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.pdb
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.csproj.AssemblyReference.cache
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.AssemblyInfoInputs.cache
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.AssemblyInfo.cs
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.csproj.CoreCompileInputs.cache
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.dll
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.pdb
+C:\Users\Austin\OneDrive\Desktop\repos\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.genruntimeconfig.cache
